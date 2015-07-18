@@ -19,7 +19,7 @@
 
 
 .container > .navbar-header{
-    margin-left: -132px;
+    margin-left: 2px;
     position: relative;
     top:21px;
 }
@@ -60,9 +60,10 @@
 
 
 .bg {
-  background: url(../assets/img/aboutme-bg.jpg) no-repeat top center;
-    
+  background: url(../assets/img/aboutme-bg.jpg) no-repeat scroll center top;
+  padding: 90px 0 ;
 }
+
 .banner{
   background: url(../assets/img/shortcodes-banner.jpg) no-repeat center center;
 
@@ -84,8 +85,13 @@
 .puntos {
   text-align: center;
 }
- 
- .banner,.bg {  
+ .bg{
+  height: 50%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+ }
+ .banner {  
   background-size: 100% 100%;
   background-repeat: no-repeat;
   width: 100%;
@@ -119,4 +125,19 @@ height: 100%;
 .footer-menu{
   background: #151d26 ;
   height: 117px;
+}
+.container {
+  max-width: 1200px;
+  width: auto;
+}
+.whatido li {
+  list-style: none;
+  width: 25%;
+  display: inline-block;
+  margin: 0 0 30px;
+  min-height: 100px;
+  padding: 0 30px;
+  position: relative;
+  width: 24.5%;
+  text-align: center;
 }
