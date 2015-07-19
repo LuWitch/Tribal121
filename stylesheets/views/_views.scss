@@ -33,6 +33,7 @@ padding: 16px 79px;
 .flexive,.cura,.btn{
 	position: relative;
 	float: left;
+
 }
 .hosting {
 	left:288px;
@@ -188,13 +189,13 @@ li {
 }
 .iphone2 img {
 position: relative;
-top: -55px;
+top: -54px;
 left: 10px;
 }
 .iphone2 h5{
   position: relative;
   left: 83px;
-  top: 57px;
+  top: 63px;
   font-family:"Raleway",sans-serif;
   line-height: 25px;
   font-weight: 700;
@@ -205,7 +206,7 @@ left: 10px;
 .iphone2 p {
  position: relative;
   left: 83px;
-  top: 64px;
+  top: 56px;
   font-family:"Raleway",sans-serif;
   line-height: 25px;
 
@@ -238,4 +239,60 @@ left: 49px;
   line-height: 25px;
   text-align: right;
 
+}
+.btn-banner{
+	position: relative;
+	left: 1039px;
+	top: 60px;
+}
+.banner p {
+color: #c2c5cc;
+font-size: 18px;
+line-height: 33px;
+font-family:"Raleway",sans-serif;
+position: relative;
+left: 133px;
+top: 139px;
+
+}
+.puntos p{
+	 font-family:"Raleway",sans-serif;
+}
+.numeros p {
+	 font-family:"Raleway",sans-serif;
+	 font-weight: 600;
+
+}
+.numeros img {
+left: 137px;
+position: relative;
+top: 17px;
+
+}
+.numeros1{
+position: relative;
+top: 41px;
+height: 270px;
+}
+ .numeros p  {
+position: relative;
+top: 48px;
+left: 100px;
+font-weight: 600;
+letter-spacing: 2px;
+margin: 24px 0 11px;
+text-transform: uppercase;
+}
+.numeros span {	
+font-size: 36px;
+position: relative;
+top: 48px;
+left: 149px;
+font-size: 36px;
+font-weight: 600;
+
+
+}
+.banner-azul {
+	width: 100%;
 }
