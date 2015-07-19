@@ -5871,7 +5871,7 @@ li {
 .btn-banner {
   position: relative;
   left: 1039px;
-  top: 60px; }
+  top: 117px; }
 
 .banner p {
   color: #c2c5cc;
@@ -5879,9 +5879,9 @@ li {
   line-height: 33px;
   font-family: "Raleway",sans-serif;
   position: relative;
-  left: 133px;
   top: 139px;
-  display: inline; }
+  display: inline-block;
+  right: 58px; }
 
 .puntos p {
   font-family: "Raleway",sans-serif; }
