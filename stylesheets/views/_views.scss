@@ -265,7 +265,7 @@ display: inline;
 
 }
 .numeros img {
-left: 137px;
+left: 156px;
 position: relative;
 top: 17px;
 
@@ -277,7 +277,7 @@ height: 270px;
 }
  .numeros p  {
 position: relative;
-top: 48px;
+top: 38px;
 left: 100px;
 font-weight: 600;
 letter-spacing: 2px;
@@ -291,9 +291,11 @@ top: 48px;
 left: 149px;
 font-size: 36px;
 font-weight: 600;
-
-
 }
 .banner-azul {
 	width: 100%;
+}
+.num{
+	position: relative;
+	left: 112px !important;
 }
