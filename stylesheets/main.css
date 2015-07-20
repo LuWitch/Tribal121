@@ -5924,4 +5924,22 @@ li {
   position: relative;
   left: 112px !important; }
 
+.pricing {
+  position: relative;
+  top: 220px;
+  height: 20%; }
+
+.tables {
+  position: relative;
+  top: 250px; }
+
+.bk-tables {
+  text-align: center;
+  padding: 50px 28px 55px;
+  background: #fff;
+  margin: 0 0 30px; }
+
+.pricing-t {
+  height: 120%; }
+
 /*# sourceMappingURL=main.css.map */
